@@ -16,10 +16,6 @@ npm run build
 npm run preview
 ```
 
-## Netlify deployment
+## Deployment
 
-`netlify.toml` is included for SPA routing and build settings:
-
-- Build command: `npm run build`
-- Publish directory: `dist`
-- Redirect: `/* -> /index.html` (status 200)
+This project is deployed on Vercel.

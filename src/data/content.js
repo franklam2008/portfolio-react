@@ -52,7 +52,7 @@ export const homeContent = {
   title: 'I build amazing experiences',
   subtitle: 'Web Developer from Redmond, WA',
   intro:
-    'I possess significant expertise in developing cutting-edge products for businesses and clients as a programmer. My current area of specialization is in Angular 2 and the MERN stack, and my primary goal is to create software that addresses real-world problems for individuals. My unwavering enthusiasm for software development is one of my key traits.',
+    "I'm a software developer who enjoys building practical products for businesses and everyday users. I focus on Angular and the MERN stack, and I care about turning real problems into simple, reliable solutions. I'm always excited to keep learning and creating better software.",
   wave: topWave,
 }
 
