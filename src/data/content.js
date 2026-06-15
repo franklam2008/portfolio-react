@@ -50,7 +50,7 @@ export const navLinks = [
 export const homeContent = {
   greeting: "Hi, I'm Frank!",
   title: 'I build amazing experiences',
-  subtitle: 'Web Developer from Redmond, WA',
+  subtitle: 'Web Developer from Henderson, Nevada',
   intro:
     "I'm a software developer who enjoys building practical products for businesses and everyday users. I focus on Angular and the MERN stack, and I care about turning real problems into simple, reliable solutions. I'm always excited to keep learning and creating better software.",
   wave: topWave,
