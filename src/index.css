@@ -73,9 +73,11 @@ a {
 }
 
 .brand-avatar {
+  background: #fff;
   border-radius: 999px;
   height: 38px;
-  object-fit: cover;
+  object-fit: contain;
+  padding: 2px;
   width: 38px;
 }
 

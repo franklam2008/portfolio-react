@@ -113,7 +113,7 @@ function ContactPage() {
             </a>
           ))}
         </div>
-        <p className="made-with">Made with ❤ in Redmond, WA</p>
+        <p className="made-with">Made with ❤ in Henderson, NV</p>
       </section>
     </>
   )
